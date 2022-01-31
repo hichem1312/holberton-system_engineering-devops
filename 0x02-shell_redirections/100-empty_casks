@@ -1,2 +1,2 @@
 #!/bin/bash
-find -name ".*" -size 0c
+find -empty -ls -a
